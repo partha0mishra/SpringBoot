@@ -2,3 +2,4 @@ dummy
 version no: 0.3
 created release branch 0.4
 02 08 - release branch 0.5
+02 09 - release branch 0.6: spring data mongodb
