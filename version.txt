@@ -4,3 +4,4 @@ created release branch 0.4
 02 08 - release branch 0.5
 02 09 - release branch 0.6: spring data mongodb
 02 10 - release branch 0.7: spring data mongodb + REST
+02 11 - release branch 0.8: @async
